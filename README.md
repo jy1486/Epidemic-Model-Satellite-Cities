@@ -1,2 +1,2 @@
 # Epidemic-Model-Satellite-Cities
-Modeling epidemic disease within satellite cities
+Deterministic epidemic model of satellite cities
